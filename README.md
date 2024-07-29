@@ -1,6 +1,6 @@
 # PCEP: Certified Python Entry-Level Programmer by Python Institute
 
-Welcome to the PCEP (Certified Python Entry-Level Programmer) repository. This repository contains code examples, notes, and resources that I used while preparing for the PCEP certification by the Python Institute.
+Welcome to the PCEP (Certified Python Entry-Level Programmer) repository. This repository contains code examples, notes, and resources that I made while preparing for the PCEP certification by the Python Institute.
 
 ## Topics Covered
 
